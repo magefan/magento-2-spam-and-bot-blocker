@@ -1,6 +1,6 @@
 # [Magento 2 Spam and Bot Blocker](https://magefan.com/magento-2-bot-blocker) | Protect Magento from Bots & Spam
 
-<img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-webp-optimization-extension_1.webp">
+<img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/a1683bce6f623be8eb25d859e5ca6d6f/i/c/icon-bot-blocker.webp">
 
 Magefan [Magento 2 Bot Blocker](https://magefan.com/magento-2-bot-blocker) is an extension that helps merchants identify, restrict, block, and manage unwanted bot traffic before it affects your store performance, analytics, SEO and server resources. It uses rate limiting, DDoS protection, IP blocking, user agent blocking, country GEO blocking, reCAPTCHA, search filters, bad requests blocking, and page URL restrictions to block spam traffic in Magento and prevent mass URL generation.
 
@@ -67,7 +67,7 @@ Stop unwanted bot traffic in Magento before it reaches your store by blocking in
 Whether you're dealing with repeated attacks from a single source or want to block traffic originating from a specific IP or network, the Magefan Bot Blocker extension gives you full control over who can access your store.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/ddos-protection-in-magento-2.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/ddos-protection-in-magento-2.webp">
 </p>
 
 ### Block Requests by User Agent
@@ -77,7 +77,7 @@ Magento 2 Bot Blocker allows you to block known crawlers, scrapers, scanners, an
 You can create your own rules to block specific user agents entirely or restrict their access to specific pages via URL restrictions to reduce malicious traffic.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/magento-block-user-agents.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/magento-block-user-agents.webp">
 </p>
 
 ### Restrict Traffic by Country
@@ -87,7 +87,7 @@ If your business doesn't serve certain countries or high-risk regions or if you'
 Country-based blocking helps reduce spam, brute-force attacks, fake registrations, and other unwanted requests from specific countries, while allowing real customers access.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/block-countries-in-magento-2.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/block-countries-in-magento-2.webp">
 </p>
 
 ### Restrict Access to Sensitive Pages
@@ -96,7 +96,7 @@ Not every page on your Magento store should be accessible to bots, especially if
 With Magento 2 Bot Page Restrictions, you can prevent automated bots from accessing specific URLs such as customer login, registration, search, contact forms, checkout, or other pages.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/restrict-bot-access-to-specific-urls-magento.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/restrict-bot-access-to-specific-urls-magento.webp">
 </p>
 
 ### Stop Suspicious Requests
@@ -106,7 +106,7 @@ Bad bots often send invalid, malformed, or suspicious HTTP requests while probin
 The Bad Request Blocker for Magento automatically detects and blocks these requests before Magento processes them, reducing unnecessary server load and helping protect your store against common automated attacks.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/magento-block-bad-requests.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/magento-block-bad-requests.webp">
 </p>
 
 ### Protect Search from Bots
@@ -114,7 +114,7 @@ The Bad Request Blocker for Magento automatically detects and blocks these reque
 Magento 2 Bot Blocker uses the Search Filter that helps prevent bots from generating thousands of unnecessary search requests that can overload your server and distort search analytics.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/block-search-spam-in-magento.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/block-search-spam-in-magento.webp">
 </p>
 
 ### Add reCAPTCHA Where You Need It
@@ -122,7 +122,7 @@ Magento 2 Bot Blocker uses the Search Filter that helps prevent bots from genera
 Spam and Bot Blocker for Magento supports Google reCAPTCHA and Cloudflare Turnstile protection for the entire store or specific pages. You can enable automatic CAPTCHA for high CPU loads or requests that exceed the threshold and receive notification about automatic CAPTCHA enable and disable.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/enable-captcha-in-magento-2.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/enable-captcha-in-magento-2.webp">
 </p>
 
 ### Monitor Bot Activity and Security Reports
@@ -132,7 +132,7 @@ See exactly what's happening behind the scenes with the Magento 2 Bot Traffic Mo
 Get detailed logs, charts and security reports showing blocked IPs, requests, bot activity, request sources, and other valuable insights that help you evaluate threats and adust the protection rules.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/magento-bot-traffic-monitor.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/bot-block/magento-bot-traffic-monitor.webp">
 </p>
 
 ## Frequently Asked Questions About Magento 2 Bot and Spam Blocker
@@ -207,7 +207,7 @@ Try out our open demo and if you like our extension **please give us some star o
 ## Support
 If you have any issues, please [contact us](mailto:support@magefan.com)
 then if you still need help, open a bug report in GitHub's
-[issue tracker](https://github.com/magefan/magento-2-webp-optimized-images/issues).
+[issue tracker](https://github.com/magefan/magento-2-spam-and-bot-blocker/issues).
 
 ## Need More Features?
 Please contact us to get a quote
@@ -239,6 +239,8 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 ### [Magento Speed Optimisation Extensions](https://magefan.com/magento-2-extensions/speed-optimization)
 
 * [Magento 2 Google Page Speed Optimizer](https://magefan.com/magento-2-google-page-speed-optimizer)
+* [Magento 2 AVIF Images](https://magefan.com/magento-2-avif-images)
+* [Magento 2 WebP Images](https://magefan.com/magento-2-webp-optimized-images)
 * [Magento Full Page Cache Extension](https://magefan.com/magento-2-full-page-cache-warmer)
 * [Magento 2 Lazy Load Images](https://magefan.com/magento-2-image-lazy-load-extension)
 * [Magento 2 Defer JavaScript](https://magefan.com/rocket-javascript-deferred-javascript)
