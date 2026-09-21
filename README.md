@@ -1,5 +1,4 @@
-# [Magento 2 Spam and Bot Blocker](https://magefan.com/magento-2-bot-blocker) | Protect Magento from Bots & Spam
-
+# [Magento 2 Spam and Bot Blocker](https://magefan.com/magento-2-bot-blocker) by Magefan
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/a1683bce6f623be8eb25d859e5ca6d6f/i/c/icon-bot-blocker.webp">
 
 Magefan [Magento 2 Bot Blocker](https://magefan.com/magento-2-bot-blocker) is an extension that helps merchants identify, restrict, block, and manage unwanted bot traffic before it affects your store performance, analytics, SEO and server resources. It uses rate limiting, DDoS protection, IP blocking, user agent blocking, country GEO blocking, reCAPTCHA, search filters, bad requests blocking, and page URL restrictions to block spam traffic in Magento and prevent mass URL generation.
